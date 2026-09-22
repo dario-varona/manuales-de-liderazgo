@@ -1,4 +1,7 @@
 # Manual de liderazgo situacional
+<p align="center">
+  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/2.jpg" alt="Portada del libro Manual de liderazgo situacional, de Dario Varona" width="320">
+</p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo situacional | Nuevos líderes**
 
