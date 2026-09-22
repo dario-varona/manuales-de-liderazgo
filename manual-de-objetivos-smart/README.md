@@ -1,7 +1,9 @@
 # Manual de objetivos SMART
 <p align="center">
-  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/3.jpg" alt="Portada del libro Manual de objetivos SMART, de Dario Varona" width="320">
+  <a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-objetivos-smart/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/3.jpg" alt="Portada del libro Manual de objetivos SMART, de Dario Varona" width="320"></a>
 </p>
+
+<p align="center"><a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-objetivos-smart/"><strong>Ver resumen oficial en dariovarona.com.ar</strong></a></p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Objetivos SMART | Nuevos líderes**
 
@@ -48,4 +50,4 @@ Cuando SMART se utiliza de esa manera, deja de ser una fórmula para redactar me
 - [Página de autor](https://dariovarona.com.ar/dario-varona-autor-y-especialista-en-liderazgo-y-pnl/)
 - [Curso de liderazgo](https://dariovarona.com.ar/cursos-de-liderazgo/)
 
-[← Volver a Manuales de liderazgo](../README.md)
+[← Volver a Manuales de liderazgo](../)
