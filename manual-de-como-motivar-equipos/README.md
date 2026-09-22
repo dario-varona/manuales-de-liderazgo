@@ -1,7 +1,9 @@
 # Manual de cómo motivar equipos
 <p align="center">
-  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/6.jpg" alt="Portada del libro Manual de cómo motivar equipos, de Dario Varona" width="320">
+  <a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-motivar-equipos/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/6.jpg" alt="Portada del libro Manual de cómo motivar equipos, de Dario Varona" width="320"></a>
 </p>
+
+<p align="center"><a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-motivar-equipos/"><strong>Ver resumen oficial en dariovarona.com.ar</strong></a></p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Motivación de equipos | Nuevos líderes**
 
@@ -39,4 +41,4 @@ El desafío está en observar, conversar y ajustar la intervención. Dado que la
 - [Página de autor](https://dariovarona.com.ar/dario-varona-autor-y-especialista-en-liderazgo-y-pnl/)
 - [Curso de liderazgo](https://dariovarona.com.ar/cursos-de-liderazgo/)
 
-[← Volver a Manuales de liderazgo](../README.md)
+[← Volver a Manuales de liderazgo](../)
