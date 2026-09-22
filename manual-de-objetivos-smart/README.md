@@ -1,4 +1,7 @@
 # Manual de objetivos SMART
+<p align="center">
+  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/3.jpg" alt="Portada del libro Manual de objetivos SMART, de Dario Varona" width="320">
+</p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Objetivos SMART | Nuevos líderes**
 
