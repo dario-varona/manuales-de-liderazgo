@@ -6,6 +6,20 @@ La colección **Manuales de liderazgo**, de Dario Varona, reúne seis libros ori
 
 Cada manual aborda una competencia concreta del liderazgo y propone llevar los conceptos a situaciones reales de conducción: comprender qué está pasando, observar qué necesita el equipo y elegir una intervención adecuada en lugar de aplicar respuestas automáticas.
 
+
+<table>
+  <tr>
+    <td align="center"><a href="./manual-de-como-motivar-equipos/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/6.jpg" alt="Portada del libro Manual de cómo motivar equipos, de Dario Varona" width="170"></a><br><strong>Cómo motivar equipos</strong></td>
+    <td align="center"><a href="./manual-de-como-delegar/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/5.jpg" alt="Portada del libro Manual de cómo delegar, de Dario Varona" width="170"></a><br><strong>Cómo delegar</strong></td>
+    <td align="center"><a href="./manual-de-como-dar-feedback/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/4.jpg" alt="Portada del libro Manual de cómo dar feedback, de Dario Varona" width="170"></a><br><strong>Cómo dar feedback</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./manual-de-objetivos-smart/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/3.jpg" alt="Portada del libro Manual de objetivos SMART, de Dario Varona" width="170"></a><br><strong>Objetivos SMART</strong></td>
+    <td align="center"><a href="./manual-de-liderazgo-situacional/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/2.jpg" alt="Portada del libro Manual de liderazgo situacional, de Dario Varona" width="170"></a><br><strong>Liderazgo situacional</strong></td>
+    <td align="center"><a href="./manual-de-estilos-de-liderazgo/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/1.jpg" alt="Portada del libro Manual de estilos de liderazgo, de Dario Varona" width="170"></a><br><strong>Estilos de liderazgo</strong></td>
+  </tr>
+</table>
+
 ## Los seis Manuales de liderazgo
 
 ### 1. Manual de cómo motivar equipos
