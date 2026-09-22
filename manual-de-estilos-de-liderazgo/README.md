@@ -1,4 +1,7 @@
 # Manual de estilos de liderazgo
+<p align="center">
+  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/1.jpg" alt="Portada del libro Manual de estilos de liderazgo, de Dario Varona" width="320">
+</p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Estilos de liderazgo | Nuevos líderes**
 
