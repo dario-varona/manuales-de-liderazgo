@@ -1,4 +1,7 @@
 # Manual de cómo motivar equipos
+<p align="center">
+  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/6.jpg" alt="Portada del libro Manual de cómo motivar equipos, de Dario Varona" width="320">
+</p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Motivación de equipos | Nuevos líderes**
 
