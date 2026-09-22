@@ -12,7 +12,7 @@ Cada manual aborda una competencia concreta del liderazgo y propone llevar los c
 
 Una introducción práctica para nuevos líderes centrada en comprender la motivación dentro de los equipos y observar qué puede hacer el líder para acompañar el compromiso, el desempeño y el desarrollo de las personas.
 
-[Ver resumen del Manual de cómo motivar equipos](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-motivar-equipos/)
+[Leer en GitHub](./manual-de-como-motivar-equipos/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-motivar-equipos/)
 
 ---
 
@@ -20,7 +20,7 @@ Una introducción práctica para nuevos líderes centrada en comprender la motiv
 
 Una introducción práctica para nuevos líderes orientada a comprender la delegación como una herramienta de liderazgo. El eje está puesto en asignar responsabilidades, definir expectativas, acompañar la autonomía y realizar seguimiento sin convertir la delegación en abandono ni control permanente.
 
-[Ver resumen del Manual de cómo delegar](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-delegar/)
+[Leer en GitHub](./manual-de-como-delegar/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-delegar/)
 
 ---
 
@@ -28,9 +28,9 @@ Una introducción práctica para nuevos líderes orientada a comprender la deleg
 
 Una introducción práctica para nuevos líderes orientada a convertir el feedback en una conversación que ayude a observar, comprender, aprender y avanzar.
 
-El manual trabaja sobre expectativas, observación, contexto, comunicación verbal y no verbal, reconocimiento, mejora, resistencias y seguimiento. :contentReference[oaicite:1]{index=1}
+El manual trabaja sobre expectativas, observación, contexto, comunicación verbal y no verbal, reconocimiento, mejora, resistencias y seguimiento.
 
-[Ver resumen del Manual de cómo dar feedback](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-dar-feedback/)
+[Leer en GitHub](./manual-de-como-dar-feedback/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-dar-feedback/)
 
 ---
 
@@ -38,9 +38,9 @@ El manual trabaja sobre expectativas, observación, contexto, comunicación verb
 
 Una introducción práctica para nuevos líderes que propone utilizar los objetivos SMART dentro de un recorrido más amplio: comprender qué se quiere cambiar, observar la realidad actual, formular un resultado claro, elegir un camino, actuar, hacer seguimiento y aprender.
 
-La propuesta no es limitar SMART a completar cinco letras, sino utilizar los objetivos como una herramienta de gestión y desarrollo. :contentReference[oaicite:2]{index=2}
+La propuesta no es limitar SMART a completar cinco letras, sino utilizar los objetivos como una herramienta de gestión y desarrollo.
 
-[Ver resumen del Manual de objetivos SMART](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-objetivos-smart/)
+[Leer en GitHub](./manual-de-objetivos-smart/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-objetivos-smart/)
 
 ---
 
@@ -50,7 +50,7 @@ Una introducción práctica para nuevos líderes orientada a comprender que una 
 
 El manual trabaja sobre competencia, compromiso, dirección, apoyo y adaptación de la intervención del líder según las necesidades de cada persona y cada tarea.
 
-[Ver resumen del Manual de liderazgo situacional](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-liderazgo-situacional/)
+[Leer en GitHub](./manual-de-liderazgo-situacional/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-liderazgo-situacional/)
 
 ---
 
@@ -71,7 +71,7 @@ El manual propone observar cómo se combinan la orientación a resultados, el cu
 
 La propuesta es ayudar a mirar el liderazgo con más criterio: entender qué necesita la situación, qué necesita el equipo y qué puede ajustar el líder para sostener resultados sin perder de vista a las personas.
 
-[Ver resumen del Manual de estilos de liderazgo](https://dariovarona.com.ar/liderazgo/resumen-manual-de-estilos-de-liderazgo/)
+[Leer en GitHub](./manual-de-estilos-de-liderazgo/) · [Ver resumen oficial](https://dariovarona.com.ar/liderazgo/resumen-manual-de-estilos-de-liderazgo/)
 
 ## Colección Manuales de liderazgo
 
