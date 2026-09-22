@@ -1,7 +1,9 @@
 # Manual de cómo dar feedback
 <p align="center">
-  <img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/4.jpg" alt="Portada del libro Manual de cómo dar feedback, de Dario Varona" width="320">
+  <a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-dar-feedback/"><img src="https://dariovarona.com.ar/wp-content/uploads/2026/09/4.jpg" alt="Portada del libro Manual de cómo dar feedback, de Dario Varona" width="320"></a>
 </p>
+
+<p align="center"><a href="https://dariovarona.com.ar/liderazgo/resumen-del-manual-de-como-dar-feedback/"><strong>Ver resumen oficial en dariovarona.com.ar</strong></a></p>
 
 **Dario Varona (Dario Gabriel Varona) | Liderazgo | Feedback | Nuevos líderes**
 
@@ -45,4 +47,4 @@ Ahí el feedback deja de ser un momento incómodo que hay que atravesar y empiez
 - [Página de autor](https://dariovarona.com.ar/dario-varona-autor-y-especialista-en-liderazgo-y-pnl/)
 - [Curso de liderazgo](https://dariovarona.com.ar/cursos-de-liderazgo/)
 
-[← Volver a Manuales de liderazgo](../README.md)
+[← Volver a Manuales de liderazgo](../)
